@@ -1,2 +1,5 @@
 # hello-world
-Hello world, hello git~
+Hi everyone!
+Glad to meet you!
+
+
